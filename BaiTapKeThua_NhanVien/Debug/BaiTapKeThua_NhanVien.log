@@ -1,0 +1,17 @@
+﻿  CongTy.cpp
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+F:\Practice_OOP\BaiTapKeThua\BaiTapKeThua_NhanVien\CongTy.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+  NhanVien.cpp
+  NhanVienQuanLy.cpp
+  NhanVienSanXuat.cpp
+  NhanVienVanPhong.cpp
+  main.cpp
+  Generating Code...
+  BaiTapKeThua_NhanVien.vcxproj -> F:\Practice_OOP\BaiTapKeThua\Debug\BaiTapKeThua_NhanVien.exe
